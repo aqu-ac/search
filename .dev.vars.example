@@ -1,0 +1,9 @@
+# Copy to .dev.vars for local use. Never commit real values.
+SEARCH_ENDPOINT=
+SEARCH_KEY=
+# Optional overrides (JSON strings)
+# CACHE_TTL=0
+# LIMITS={"s":40,"a":15}
+# BLOCK_PATTERNS=["pattern1","pattern2"]
+# ANSWER_PROMPT=...
+# SALT=...
